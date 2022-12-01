@@ -1,0 +1,3 @@
+1NF:Wyrzucenie kolumny rented_movies i zastąpienie jej orders_id
+2NF:Stworzenie tabeli users_has_orders aby widzieć zamówienia użytkowników i aby było mozna je zapisac 
+3NF:Następną rzeczą było wyrzucenie niepotrzebnej kolumny z Movie oraz usnięcie user_id ponieważ wszystkie informacje są w orders has movies
